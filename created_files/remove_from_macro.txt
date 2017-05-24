@@ -1,0 +1,8 @@
+oil_urals
+fixed_basket
+gdp_annual
+gdp_annual_growth
+average_provision_of_build_contract
+deposits_value
+mortgage_value
+mortgage_rate
