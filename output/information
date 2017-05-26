@@ -1,0 +1,10 @@
+simple1 = treedepth=4 , all pre_training features used, no macro feature used , eta = 0.02 , labels assigned randomly ,score = 0.33443
+
+simple2 = treedepth=4 , all pre_training features used, no macro feature used , eta = 0.05 , labels assigned randomly ,score = 0.33490
+
+simple3 = treedepth=5 , all pre_training features used, no macro feature used , eta = 0.02 , labels assigned randomly ,score = 0.33123
+
+simple4 = treedepth=3 , all pre_training features used, no macro feature used , eta = 0.02 , labels assigned randomly ,score = 0.33204
+
+simple5 = treedepth=6 , all pre_training features used, no macro feature used , eta = 0.02 , labels assigned randomly ,score = 0.33287
+
