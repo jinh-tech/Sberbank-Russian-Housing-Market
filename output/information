@@ -8,3 +8,12 @@ simple4 = treedepth=3 , all pre_training features used, no macro feature used , 
 
 simple5 = treedepth=6 , all pre_training features used, no macro feature used , eta = 0.02 , labels assigned randomly ,score = 0.33287
 
+simple6 = treedepth=5 , 30 training features total , some macro feature used , eta = 0.02 , labels assigned randomly ,score = 0.35657
+
+simple7 = treedepth=5 , 50 training features total , some macro feature used , eta = 0.02 , labels assigned randomly ,score = 0.34 ,train_data = 0.7
+
+simple8 = treedepth=5 , 10 training features total , some macro feature used , eta = 0.02 , labels assigned randomly ,score = 0.35 , train_data = 0.8
+
+simple9 = treedepth=5 , 40 training features total , some macro feature used , eta = 0.02 , labels assigned randomly ,score = 0.34 , train_data = 0.8
+
+
